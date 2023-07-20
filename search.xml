@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>创建指令语音数据集</title>
+      <link href="/2023/07/20/%E5%88%9B%E5%BB%BA%E6%8C%87%E4%BB%A4%E8%AF%AD%E9%9F%B3%E6%95%B0%E6%8D%AE%E9%9B%86/"/>
+      <url>/2023/07/20/%E5%88%9B%E5%BB%BA%E6%8C%87%E4%BB%A4%E8%AF%AD%E9%9F%B3%E6%95%B0%E6%8D%AE%E9%9B%86/</url>
+      
+        <content type="html"><![CDATA[<p>首先创建一个文件夹（如：dataset1），用于存放WAV文件和TextGrid文件。</p><ol><li><p>双击打开Praat.exe</p></li><li><p>点击new-&gt;record mono sound-&gt;点击record开始录音</p></li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/1.png" alt="Alt text"></p><ol start="3"><li>点击stop停止录音</li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/2.png" alt="Alt text"></p><ol start="4"><li><p>修改文件名为序号（Name），点击save to list &amp; close关闭窗口</p></li><li><p>选中刚刚录制的文件，点击save-&gt;save as WAV file..，保存到文件夹中</p></li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/5.png" alt="Alt text"></p><ol start="6"><li>选中刚刚录制的文件，点击annotate-&gt;to textgrid…-&gt;点击OK</li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/3.png" alt="Alt text"></p><ol start="7"><li>按住shift选中sound文件和textgrid文件，点击view &amp; edit</li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/6.png" alt="Alt text"></p><ol start="8"><li>在左上方文本框中输入文本，对应说陈述的内容，ctrl+s保存到文件夹，退出</li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/4.png" alt="Alt text"></p><ol start="9"><li>最终文件夹应该如下图所示：</li></ol><p><img src="/../images/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB/7.png" alt="Alt text"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>语音识别模型部署到国产化环境</title>
       <link href="/2023/07/19/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%88%B0%E5%9B%BD%E4%BA%A7%E5%8C%96%E7%8E%AF%E5%A2%83/"/>
       <url>/2023/07/19/%E8%AF%AD%E9%9F%B3%E8%AF%86%E5%88%AB%E6%A8%A1%E5%9E%8B%E9%83%A8%E7%BD%B2%E5%88%B0%E5%9B%BD%E4%BA%A7%E5%8C%96%E7%8E%AF%E5%A2%83/</url>
